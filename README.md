@@ -1,2 +1,2 @@
-# vcs-project
-first attempt at coding a webstie
+# project for coding bootcamp.
+first attempt at coding a website
